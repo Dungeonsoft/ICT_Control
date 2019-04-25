@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socket.io-client-unity3d-master.Plugins", "socket.io-client-unity3d-master.Plugins.csproj", "{43A5763C-2ACA-7EA3-3CF4-5185C97E9263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socket.io-client-unity3d-master", "socket.io-client-unity3d-master.csproj", "{56AFD7B8-553B-BFD1-666F-83626B26CF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A5763C-2ACA-7EA3-3CF4-5185C97E9263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A5763C-2ACA-7EA3-3CF4-5185C97E9263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A5763C-2ACA-7EA3-3CF4-5185C97E9263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A5763C-2ACA-7EA3-3CF4-5185C97E9263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AFD7B8-553B-BFD1-666F-83626B26CF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AFD7B8-553B-BFD1-666F-83626B26CF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AFD7B8-553B-BFD1-666F-83626B26CF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AFD7B8-553B-BFD1-666F-83626B26CF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
